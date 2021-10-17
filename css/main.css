@@ -525,7 +525,7 @@ position: absolute;
   transition: .4s;
 }
 .awards .swiper-prev {
-  left: -100px;s
+  left: -100px;
 }
 .awards .swiper-next {
   right: -100px;
